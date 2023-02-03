@@ -1,5 +1,7 @@
-### Hi there 👋
+### Всем привет! 👋
 
+📌 Меня зовут Любашка и это мой профиль, куда я выкладываю всё то, что разрабатываю (в основном в колледже). <br/>
+🌱 Только учуськаюсь мастерству программирования.
 <!--
 **Auspisya/Auspisya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
